@@ -1,1 +1,3 @@
-hello.md
+target/
+.idea/
+*.iml
